@@ -1,2 +1,1 @@
-# SNTG-Programa-git.
-Sistema de turismo SNTG
+# SNTG – Sistema de Novedad Turística Garantizada
